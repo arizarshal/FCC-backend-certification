@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ariz Arshal",
 	"description": "A project for freecodecamp backend api certification.",
-	"keywords": [ "freecodecamp", "api", "node" ],
+	"keywords": [
+		"freecodecamp",
+		"api",
+		"node"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
