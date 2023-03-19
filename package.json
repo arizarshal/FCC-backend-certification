@@ -3,6 +3,7 @@
 	"author": "Ariz Arshal",
 	"description": "A project for freecodecamp backend api certification.",
 	"keywords": [ "freecodecamp", "api", "node" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
