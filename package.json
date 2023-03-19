@@ -10,12 +10,7 @@
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
-<<<<<<< HEAD
 		"express": "^4.14.0"
-=======
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
->>>>>>> d39172254610936a9f72dd4d637dbeb5d46d397b
 	},
 	"main": "server.js",
 	"scripts": {
